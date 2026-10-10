@@ -3,7 +3,7 @@
 <!-- Replace the URL below with the URL of your animated GIF. -->
 <img src="assets/matrix.gif" width="600" alt="Animated banner">
 
-# Welcome to My Matrix
+# Welcome to My Ocean 🌊
 
 ### I'm a Java Software Engineer
 
