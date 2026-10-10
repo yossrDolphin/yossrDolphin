@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the URL below with the URL of your animated GIF. -->
-<img src="assets/ocean.gif" width="600" alt="Animated banner">
+<img src="ocean.gif" width="600" alt="Animated banner">
 
 # Welcome to My Ocean 🌊
 
