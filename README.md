@@ -9,7 +9,7 @@
 
 Java • Spring Boot • REST APIs • SQL
 
-> “Your success will never exceed your personal development, for success is something you attract by the person you become.”
+> “🐬 Stay curious, dive deep, and make waves wherever you go. 🌊”
 
 <br>
 
